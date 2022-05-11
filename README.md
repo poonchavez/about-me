@@ -1,3 +1,1 @@
-Hello World!
-
-My name is Chavez
+Hi there, this is Chavez, welcome to my Github page!
